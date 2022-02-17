@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-1) upload 폴더를 만든다 (/upload)
+
 <%
 String path = application.getRealPath("/")+"upload/";
 String filename = null;
