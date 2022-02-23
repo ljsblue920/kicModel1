@@ -137,11 +137,14 @@ function callback() {
 				<label for="tel">전화번호:</label> <input type="text"
 					class="form-control" name="tel">
 			</div>
-			<div class="form-group">
+		  
+		 <div class="form-group">
 
 				<label for="tel">이메일:</label> <input type="text"
 					class="form-control" name="email">
-			</div>
+			</div> 
+			
+		
 
 
 
